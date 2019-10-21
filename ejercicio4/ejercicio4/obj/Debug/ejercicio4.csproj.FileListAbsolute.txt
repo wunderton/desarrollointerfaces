@@ -1,0 +1,13 @@
+C:\Users\anton\source\repos\ejercicio4\ejercicio4\bin\Debug\ejercicio4.exe.config
+C:\Users\anton\source\repos\ejercicio4\ejercicio4\bin\Debug\ejercicio4.exe
+C:\Users\anton\source\repos\ejercicio4\ejercicio4\bin\Debug\ejercicio4.pdb
+C:\Users\anton\source\repos\ejercicio4\ejercicio4\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\anton\source\repos\ejercicio4\ejercicio4\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\anton\source\repos\ejercicio4\ejercicio4\obj\Debug\ejercicio4.csprojAssemblyReference.cache
+C:\Users\anton\source\repos\ejercicio4\ejercicio4\obj\Debug\ejercicio4.Form1.resources
+C:\Users\anton\source\repos\ejercicio4\ejercicio4\obj\Debug\ejercicio4.Properties.Resources.resources
+C:\Users\anton\source\repos\ejercicio4\ejercicio4\obj\Debug\ejercicio4.csproj.GenerateResource.cache
+C:\Users\anton\source\repos\ejercicio4\ejercicio4\obj\Debug\ejercicio4.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\ejercicio4\ejercicio4\obj\Debug\ejercicio4.csproj.CopyComplete
+C:\Users\anton\source\repos\ejercicio4\ejercicio4\obj\Debug\ejercicio4.exe
+C:\Users\anton\source\repos\ejercicio4\ejercicio4\obj\Debug\ejercicio4.pdb
